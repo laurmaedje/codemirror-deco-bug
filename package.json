@@ -1,0 +1,15 @@
+{
+  "name": "codemirror-deco-bug",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "NODE_ENV=development vite serve --host"
+  },
+  "dependencies": {
+    "@codemirror/commands": "^6.3.2",
+    "@codemirror/state": "^6.3.3",
+    "@codemirror/view": "^6.22.3"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
